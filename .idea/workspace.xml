@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a55bd2e5-029e-4211-8e75-8f354bdca4dc" name="Changes" comment="" />
+    <list default="true" id="a55bd2e5-029e-4211-8e75-8f354bdca4dc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +30,65 @@
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.3361124076484434" />
+      <entry key="MS500" value="3.3719070892205907" />
+      <entry key="S2" value="5.946681338212673" />
+      <entry key="S5" value="7.088284697441221" />
+      <entry key="S10" value="7.96487404487411" />
+      <entry key="S30" value="10.095763874409485" />
+      <entry key="S60" value="11.280675252415323" />
+      <entry key="M2" value="12.059737500332698" />
+      <entry key="M5" value="12.602452709596472" />
+      <entry key="M10" value="12.79746177121941" />
+      <entry key="M15" value="12.864123187282512" />
+      <entry key="M30" value="12.931632180743087" />
+      <entry key="H1" value="12.965708028292713" />
+      <entry key="H2" value="12.982826909506073" />
+      <entry key="H4" value="12.991406667420616" />
+      <entry key="D1" value="12.998566834268603" />
+      <entry key="W1" value="12.999795238916557" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.247071035799155" />
+      <entry key="MS500" value="3.323539731757053" />
+      <entry key="S2" value="5.925116346429216" />
+      <entry key="S5" value="7.077714483885003" />
+      <entry key="S10" value="7.957700894218041" />
+      <entry key="S30" value="10.091110152009788" />
+      <entry key="S60" value="11.277673916395159" />
+      <entry key="M2" value="12.05801211578366" />
+      <entry key="M5" value="12.601699569546708" />
+      <entry key="M10" value="12.797073855203218" />
+      <entry key="M15" value="12.863861988774332" />
+      <entry key="M30" value="12.931500270580013" />
+      <entry key="H1" value="12.965641742262424" />
+      <entry key="H2" value="12.982793683347941" />
+      <entry key="H4" value="12.991390033504882" />
+      <entry key="D1" value="12.998564059051004" />
+      <entry key="W1" value="12.999794842385858" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2,
